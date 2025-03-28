@@ -1,0 +1,10 @@
+C:\my space\work\VisualStudioProjects\TI_2\LFSR\obj\Debug\LFSR.csproj.AssemblyReference.cache
+C:\my space\work\VisualStudioProjects\TI_2\LFSR\obj\Debug\LFSR.Form1.resources
+C:\my space\work\VisualStudioProjects\TI_2\LFSR\obj\Debug\LFSR.Properties.Resources.resources
+C:\my space\work\VisualStudioProjects\TI_2\LFSR\obj\Debug\LFSR.csproj.GenerateResource.cache
+C:\my space\work\VisualStudioProjects\TI_2\LFSR\obj\Debug\LFSR.csproj.CoreCompileInputs.cache
+C:\my space\work\VisualStudioProjects\TI_2\LFSR\bin\Debug\LFSR.exe.config
+C:\my space\work\VisualStudioProjects\TI_2\LFSR\bin\Debug\LFSR.exe
+C:\my space\work\VisualStudioProjects\TI_2\LFSR\bin\Debug\LFSR.pdb
+C:\my space\work\VisualStudioProjects\TI_2\LFSR\obj\Debug\LFSR.exe
+C:\my space\work\VisualStudioProjects\TI_2\LFSR\obj\Debug\LFSR.pdb
