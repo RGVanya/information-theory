@@ -1,0 +1,10 @@
+C:\my space\work\VisualStudioProjects\TI_3\RSA\obj\Debug\RSA.csproj.AssemblyReference.cache
+C:\my space\work\VisualStudioProjects\TI_3\RSA\obj\Debug\RSA.Form1.resources
+C:\my space\work\VisualStudioProjects\TI_3\RSA\obj\Debug\RSA.Properties.Resources.resources
+C:\my space\work\VisualStudioProjects\TI_3\RSA\obj\Debug\RSA.csproj.GenerateResource.cache
+C:\my space\work\VisualStudioProjects\TI_3\RSA\obj\Debug\RSA.csproj.CoreCompileInputs.cache
+C:\my space\work\VisualStudioProjects\TI_3\RSA\bin\Debug\RSA.exe.config
+C:\my space\work\VisualStudioProjects\TI_3\RSA\bin\Debug\RSA.exe
+C:\my space\work\VisualStudioProjects\TI_3\RSA\bin\Debug\RSA.pdb
+C:\my space\work\VisualStudioProjects\TI_3\RSA\obj\Debug\RSA.exe
+C:\my space\work\VisualStudioProjects\TI_3\RSA\obj\Debug\RSA.pdb
